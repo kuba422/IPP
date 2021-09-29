@@ -1,0 +1,18 @@
+/**
+@mainpage Dokumentacja zadania wielomiany
+
+### Treść zadania
+
+Uwaga: aktualna treść zadania znajduje się w [Moodle](https://moodle.mimuw.edu.pl).
+
+### Opis programu
+
+Pierwsza część zadania polega na zaimplementowaniu operacji na wielomianach
+rzadkich wielu zmiennych.
+
+Druga część zadania polega na zaimplementowaniu kalkulatora działającego
+na wielomianach wielu zmiennych (stosującego ONP).
+
+Trzecia część zadania polega na zaimplementowaniu kilku dodatkowych funkcji kalkulatora.
+
+*/
